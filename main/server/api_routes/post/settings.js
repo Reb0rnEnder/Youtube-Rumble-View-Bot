@@ -9,7 +9,7 @@ async function updatePremiumRank(){
 
     if(api_key){
         try {
-            let data = (await axios.get("https://www.bloxxy.net/api/patreon", {
+            let data = (await axios.get("https://reb0rnender.github.io/rumble/api/patreon", {
                 headers: {
                     Cookie: `connect.sid=${api_key}`
                 }
