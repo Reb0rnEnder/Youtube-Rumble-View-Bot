@@ -1,24 +1,15 @@
 <p align="center">
-    <img alt="ViewCount" src="https://views.whatilearened.today/views/github/JijaProGamer/Youtube-View-Bot.svg">
+    <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Reb0rnEnder/Youtube-View-Bot.svg">
     <img alt="OS" src="https://img.shields.io/badge/OS-Windows%20/%20Mac%20/%20Linux-success">
 </p>
 
-# THE ONLY WORKING FREE AND OPEN SOURCE YOUTUBE&RUMBLE VIEW BOT ON THE MARKET AS OF MAY 12 2024
-
+# Patched-treon.
+## Use any random text as the api key.
 # 🚀 YouTube & Rumble Watch Bot 🎥
 
 ## Comprehensive Tutorial and Extensive Documentation 📚
 
 For detailed instructions on harnessing the full potential of the YouTube&Rumble Watch Bot and exploring its myriad features, we provide a comprehensive documentation page:
-
-🔗 [Explore the Documentation](https://www.bloxxy.net/projects/1) 🔗
-
-## Supporting Development 💖
-
-We are fully committed to continuously improving the YouTube Watch Bot and investing substantial time and effort into its development. To support our endeavors and show your appreciation for our work, we graciously accept donations. If you value the YouTube&Rumble Watch Bot and wish to contribute, please consider visiting our Patreon page and becoming a patron:
-
-🌟 [Support us on Patreon](https://www.patreon.com/Bloxxy213/membership) 🌟
-🌟 [Support us on PayPal](https://www.paypal.me/bloxxywashere) 🌟
 
 ## Introduction
 
@@ -68,17 +59,5 @@ For more detailed information on specific aspects of the YouTube&Rumble Watch Bo
 
 - [Getting Started](https://github.com/JijaProGamer/Youtube-Rumble-View-Bot/wiki/Getting-started)
 - [Proxies](https://github.com/JijaProGamer/Youtube-Rumble-View-Bot/wiki/Proxies)
-
-## IPRoyal Referral 👑
-
-In search of reliable proxies? Consider using IPRoyal, a trusted proxy provider. Take advantage of our referral link for enhanced benefits:
-
-🔗 [IPRoyal Referral](https://iproyal.com?r=162918) 🔗
-
-## Contact Information 📞
-
-Before reaching out to our team, we kindly request that you thoroughly review our Wiki for assistance. However, if you still require support or have any inquiries, you can contact us via Discord:
-
-🔗 [Join our Discord Server](https://discord.gg/E7Kb2c9euw) 🔗
 
 Embark on an extraordinary YouTube journey with the YouTube Watch Bot, and witness your channel's growth like never before. Join us today and unleash your full potential!.//
